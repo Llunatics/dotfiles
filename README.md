@@ -47,9 +47,9 @@ A lightweight notification daemon. Configurations are in the `dunst/` folder.
 To use these configurations, clone the repository and symlink the desired configurations to your home directory.
 
 ```bash
-git clone https://github.com/yourusername/dotfiles.git
+git clone https://github.com/Llunatics/dotfiles.git
 cd dotfiles
-# Example: Symlink Hyprland config
+# Example: Symlink Hyprlock config
 ln -s $(pwd)/hyprland ~/.config/hyprland
 ```
 
