@@ -9,7 +9,7 @@ Welcome to my personal dotfiles repository! This repository contains the configu
 ### Hyprland
 A lightweight and customizable Wayland compositor. Configurations are in the `hyprland/` folder.
 
-![Hyprland Preview](hyprland/preview.png)
+![Hyprland Preview](preview/preview.png)
 
 ### Waybar
 A highly customizable status bar for Wayland. Configurations are in the `waybar/` folder.
@@ -19,7 +19,7 @@ A highly customizable status bar for Wayland. Configurations are in the `waybar/
 ### Hyprlock
 A minimal and elegant screen locker. Configurations and assets are in the `hyprlock/` folder.
 
-![Hyprlock Preview](hyprlock/preview.png)
+![Hyprlock Preview](preview/hyprlock.png)
 
 ### Kitty
 A fast, feature-rich, and GPU-accelerated terminal emulator. Configurations are in the `kitty/` folder.
@@ -58,7 +58,7 @@ ln -s $(pwd)/hyprland ~/.config/hyprland
 ## Preview
 Here's an overall look at my desktop setup:
 
-![Desktop Preview](desktop/preview.png)
+![Desktop Preview](preview/desktop.png)
 
 ---
 
