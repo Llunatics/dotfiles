@@ -65,7 +65,6 @@ Here's an overall look at my desktop setup:
 ## Notes
 - These dotfiles are constantly evolving as I tweak my setup.
 - Designed for use on Arch Linux with Hyprland.
-- Feel free to open issues or submit pull requests if you have suggestions!
 
 ---
 
