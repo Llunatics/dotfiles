@@ -24,7 +24,7 @@ A minimal and elegant screen locker. Configurations and assets are in the `hyprl
 
 
 ## Notes
-- These dotfiles are constantly evolving as I tweak my setup.
+- Based on End-4 dots with personal tweak, and constantly evolving as i tweak my setup.
 - Designed for use on Arch Linux with Hyprland.
 
 ---
