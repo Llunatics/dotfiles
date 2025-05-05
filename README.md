@@ -9,6 +9,7 @@ Here's an overall look at my desktop setup:
 
 ![Desktop Preview](preview/desktop2.png)
 ![Desktop Preview](preview/desktop.png)
+![Desktop Preview](preview/desktop3Light.png)
 
 ---
 
